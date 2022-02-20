@@ -97,6 +97,11 @@ td
     padding: 2px;
     border: 1px solid #6f3b88;
     }
+    #course-name
+{
+    font-weight:bold;
+    }
+
 #heading
 {
     font-weight:bold;
